@@ -22,4 +22,4 @@ CREATE TABLE `Ventas`.`Cliente` (`identificacion` VARCHAR(15) NOT NULL , `nombre
 
 INSERT INTO `Cliente` (`identificacion`, `nombre`, `apellidos`, `direccion`, `telefono`, `ciudad_nac`, `fecha_nac`) VALUES ('100', 'Danny Ferney', 'Ardila Ardila', 'calle 3 #15-21', '3165736850', 'Encino', '2013-03-08');
 
-![Diccionario de datos](registrodedatos.png)
+![Diccionario de datos](./img/registrodedatos.png)
